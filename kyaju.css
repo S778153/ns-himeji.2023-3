@@ -73,7 +73,7 @@
     /** 背景画像を固定して貼り付ける **/
     .fix-image {
         height: 80vh;
-        background-image: url("img/DSC_0882-scaled.jpg");
+        background-image: url("img/DSC_0882-scaled2.jpg");
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: cover;
@@ -108,14 +108,14 @@
 
     .description {
         width: 100%;
-        height: 90px;
+        height: 45px;
         padding-right: 12px;
         padding-left: 12px;
         box-sizing: border-box;
     }
 
     .description p {
-        font-size: 15px;
+        font-size: 22px;
         color: dimgray;
     }
 
@@ -476,14 +476,14 @@ screen and (min-width: 771px) {
 
     .description {
         width: 100%;
-        height: 80px;
+        height: 50px;
         padding-right: 12px;
         padding-left: 12px;
         box-sizing: border-box;
     }
 
     .description p {
-        font-size: 15px;
+        font-size: 23px;
         color: dimgray;
     }
 
